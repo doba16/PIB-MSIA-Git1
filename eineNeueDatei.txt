@@ -1,1 +1,1 @@
-Dies ist eine neue Datei, welche in der Konsole angelegt wurde.
+Dies ist eine neue Datei, welche in Netbeans editiert wurde.
